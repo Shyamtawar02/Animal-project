@@ -1,0 +1,289 @@
+.iterationTrackerChild {
+    height: 13.75rem;
+    width: 67.625rem;
+    position: relative;
+    border-radius: var(--br-3xl);
+    background-color: var(--color-mediumseagreen);
+    display: none;
+    max-width: 100%;
+  }
+  .forIndiaInquiries {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 800;
+    font-family: inherit;
+    white-space: pre-wrap;
+    z-index: 3;
+  }
+  .matrixManipulator {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-12xs);
+    font-size: var(--font-size-xl);
+  }
+  .animalscare1gmailcom {
+    flex: 1;
+    position: relative;
+    text-decoration: underline;
+    font-weight: 800;
+    color: inherit;
+    white-space: nowrap;
+    z-index: 3;
+  }
+  .cSSModifier {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-12xs);
+  }
+  .vijayShreeNagarindore {
+    width: 9.25rem;
+    position: relative;
+    font-weight: 800;
+    display: inline-block;
+    z-index: 3;
+  }
+  .hTMLGenerator {
+    width: 11.563rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 var(--padding-4xs);
+    box-sizing: border-box;
+    gap: var(--gap-5xs);
+  }
+  .xML {
+    flex: 1;
+    position: relative;
+    font-weight: 800;
+    z-index: 3;
+  }
+  .arrayProcessor,
+  .jSONParser {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .jSONParser {
+    width: 11.625rem;
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+  }
+  .arrayProcessor {
+    flex: 0.8577;
+    flex-direction: column;
+    padding: 0 var(--padding-17xl) 0 0;
+    gap: var(--gap-4xs);
+    min-width: 10.25rem;
+    font-size: var(--font-size-xs);
+  }
+  .wayToHelp {
+    margin: 0;
+    width: 13.5rem;
+    position: relative;
+    font-size: inherit;
+    font-weight: 800;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 3;
+  }
+  .formValidator {
+    width: 12.688rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .adopt {
+    width: 8.438rem;
+    position: relative;
+    font-weight: 800;
+    display: inline-block;
+    z-index: 3;
+  }
+  .currencyConverter {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-5xl);
+  }
+  .calendarHandler {
+    align-self: stretch;
+    gap: var(--gap-2xs);
+  }
+  .calendarHandler,
+  .templateFiller,
+  .wayToHelpParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .templateFiller {
+    align-self: stretch;
+    gap: var(--gap-sm);
+    font-size: var(--font-size-xs);
+  }
+  .wayToHelpParent {
+    flex: 1;
+    gap: var(--gap-lg);
+    min-width: 10.625rem;
+  }
+  .aboutUs,
+  .staff {
+    position: relative;
+    font-weight: 800;
+    display: inline-block;
+    z-index: 3;
+  }
+  .aboutUs {
+    margin: 0;
+    width: 9.375rem;
+    font-size: inherit;
+    font-family: inherit;
+  }
+  .staff {
+    width: 8.438rem;
+    flex-shrink: 0;
+  }
+  .dictionaryHandler,
+  .dictionaryHandler1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .dictionaryHandler {
+    align-self: stretch;
+    justify-content: flex-start;
+  }
+  .dictionaryHandler1 {
+    width: 9.688rem;
+    justify-content: flex-end;
+    padding: 0 var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .searchEngine {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-smi-5);
+  }
+  .weatherProvider {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-12xs) 0 0;
+    font-size: var(--font-size-xs);
+  }
+  .timeZoneManager {
+    width: 12.688rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 var(--padding-3xl) 0 0;
+    box-sizing: border-box;
+    gap: var(--gap-lg);
+  }
+  .whatWeDo {
+    margin: 0;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    font-weight: 800;
+    font-family: inherit;
+    z-index: 3;
+  }
+  .releaseWrapper,
+  .whatWeDoWrapper {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .whatWeDoWrapper {
+    display: flex;
+    align-items: flex-start;
+    padding: 0 0 0 var(--padding-sm);
+  }
+  .releaseWrapper {
+    padding: 0 0 0 var(--padding-6xs);
+  }
+  .dataAggregator,
+  .motionTracker,
+  .releaseWrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+  .dataAggregator {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-2xs);
+  }
+  .motionTracker {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 var(--padding-7xs) 0 0;
+  }
+  .facialRecognition,
+  .sentimentAnalyzer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .facialRecognition {
+    width: 9.25rem;
+    align-items: flex-end;
+    gap: var(--gap-sm);
+    font-size: var(--font-size-xs);
+  }
+  .sentimentAnalyzer {
+    width: 13.063rem;
+    align-items: flex-start;
+    gap: var(--gap-lg);
+  }
+  .functionBuilder,
+  .iterationTracker {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .iterationTracker {
+    flex: 1;
+    border-radius: var(--br-3xl);
+    background-color: var(--color-mediumseagreen);
+    justify-content: flex-start;
+    padding: var(--padding-27xl) var(--padding-5xs) var(--padding-25xl)
+      var(--padding-51xl);
+    gap: var(--gap-7xl);
+    z-index: 2;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--white);
+    font-family: var(--h1-40px-bold-inter);
+  }
+  .functionBuilder {
+    align-self: stretch;
+    justify-content: flex-end;
+    padding: 0 var(--padding-mid);
+  }
